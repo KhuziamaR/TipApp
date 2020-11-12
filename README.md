@@ -4,7 +4,8 @@
 
 Submitted by: **Khuziama Rehman**
 
-Time spent: **5** hours spent in total
+Time spent: **9** hours spent in total
+It took 2 hours to get the functionality working, however when I started to implement design and additional features i came across bugs that ruined my entire project such as the app not loading up or errors in the low level language that looks similar to assembly code represented by "Threading". Unfortunatelty I did not have a backup working project on my github, therefore had to restart. I will definetely be saving my work by pushing working versions onto github next time! 
 
 ## User Stories
 
@@ -28,14 +29,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/YvVCE5j.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-A few Challenges I had while making this application was getting certain styles to work. Getting the application to function was fairly simple, however, once I added some styling and tried to make the app more aesthetic, i was getting unknown errors and it was difficult for me to debugg the code as it is my first time using both xcode and swift. The error i was getting was "Cant find keyplane that supports type 8 for keyboard".
+A few Challenges I had while making this application was getting certain styles to work. Getting the application to function was fairly simple, however, once I added some styling and tried to make the app more aesthetic, i was getting unknown errors and it was difficult for me to debugg the code as it is my first time using both xcode and swift. The error i was getting was "Cant find keyplane that supports type 8 for keyboard". In addition I kept getting threading errors as well as errors while running my code as the application was not opening up on certain phone simulators on xcode. I managed to find time to redo the project as before i had not pushed a valid working project version onto my github, but next time i will for sure push working versions onto github before testing out new implementations and designs! 
 
 
 ## License
