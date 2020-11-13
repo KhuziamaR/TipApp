@@ -1,4 +1,4 @@
-OLD VERSION, PLEASE GO TO ** ** # Pre-work - *Tip App* 
+This is the OLD VERSION, PLEASE GO TO **https://github.com/KhuziamaR/TipCalculator ** For the updated project! # Pre-work - *Tip App* 
 
 **Tip App** is a tip calculator application for iOS.
 
